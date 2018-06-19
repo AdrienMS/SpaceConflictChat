@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phi/Project/ChatApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/home/phi/Project/SpaceConflictChat/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/home/phi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/266d7c96ce00a389a459212e04c5c706/res/values-en-rGB/values-en-rGB.xml",
